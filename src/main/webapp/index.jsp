@@ -52,7 +52,7 @@
     <h1>✅ Projet DevOps ISET Kairouan</h1>
 
     <div class="message">
-        <h2>👋 Hello ISET KAIROUAN !</h2>
+        <h2>👋 Hello ISET KAIROUAN ! hahahahahahahaha</h2>
         <p>Bienvenue dans votre cours DevOps de l'année 2025-2026</p>
     </div>
 
